@@ -11,21 +11,11 @@ The app allows users to input values for various wine characteristics (like acid
 - **Interactive Input**: Users can adjust wine property sliders and input fields.
 - **Prediction**: The app predicts wine quality using a RandomForest model.
 - **Visualization**: Graphical representation of wine quality distribution.
-
 ## App Preview
 
-## App Preview
+![Wine Quality Prediction - Input Screen](Wine-Quality-Prediction/my_streamlit_app_screenshots/Screenshot_2024-09-18_194503.png)
 
-![Wine Quality Prediction - Input Screen](screenshots/Screenshot_2024-09-18_194503.png
 ![Wine Quality Prediction - Result Screen](screenshots/Screenshot_2024-09-18_194532.png)
-
-
-
-## Screenshots 
-
-### App Overview
-
-![App Overview](screenshots/Screenshot_2024-09-18_194503.png)
 
 ## Data Description
 
