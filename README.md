@@ -20,7 +20,11 @@ Here’s a screenshot of the app in action:
 ![Wine Quality Prediction - Input Screen](my_streamlit_app/screenshots/Screenshot_2024-09-18_194503.png)
 ![Wine Quality Prediction - Result Screen](my_streamlit_app/screenshots/Screenshot_2024-09-18_194532.png)
 
+## Screenshots 
 
+### App Overview
+
+![App Overview](my_streamlit_app/images/Screenshot%202024-09-17%20212847.png)
 
 ## Memory Usage
 
