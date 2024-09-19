@@ -16,9 +16,10 @@ The app allows users to input values for various wine characteristics (like acid
 
 Here’s a screenshot of the app in action:
 
-![Wine Quality Prediction - Main Screen](C:\data science material\wine quality prediction\my_streamlit_app\screenshots/Screenshot_2024-09-18_194339.png)
-![Wine Quality Prediction - Input Screen](C:\data science material\wine quality prediction\my_streamlit_app\screenshots/Screenshot_2024-09-18_194503.png)
-![Wine Quality Prediction - Result Screen](C:\data science material\wine quality prediction\my_streamlit_app\screenshots/Screenshot_2024-09-18_194532.png)
+![Wine Quality Prediction - Main Screen](screenshots/Screenshot_2024-09-18_194339.png)
+![Wine Quality Prediction - Input Screen](screenshots/Screenshot_2024-09-18_194503.png)
+![Wine Quality Prediction - Result Screen](screenshots/Screenshot_2024-09-18_194532.png)
+
 
 
 ## Memory Usage
