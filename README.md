@@ -34,5 +34,3 @@ The dataset used for this app includes the following columns:
 - **Quality**: (Target Variable)
 
 
->>>>>>> 6d872d02741479f904128cd444d14f806d095167
-
