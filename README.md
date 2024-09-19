@@ -16,7 +16,7 @@ The app allows users to input values for various wine characteristics (like acid
 
 ## App Preview
 
-![Wine Quality Prediction - Input Screen](screenshots/Screenshot_2024-09-18_194503.png)
+![Wine Quality Prediction - Input Screen](screenshots/Screenshot_2024-09-18_194503.png
 ![Wine Quality Prediction - Result Screen](screenshots/Screenshot_2024-09-18_194532.png)
 
 
