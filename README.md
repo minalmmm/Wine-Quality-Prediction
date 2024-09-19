@@ -13,11 +13,9 @@ The app allows users to input values for various wine characteristics (like acid
 - **Visualization**: Graphical representation of wine quality distribution.
 
 ## App Preview
-### Dashboard Overview
 
-![Dashboard Overview](my_streamlit_app/screenshots/Screenshot_2024-09-18_194503.png)
-![Wine Quality Prediction - Input Screen](my_streamlit_app_screenshots/Screenshot_2024-09-18_194503.png)
-![Wine Quality Prediction - Result Screen](my_streamlit_app_screenshots/Screenshot_2024-09-18_194532.png)
+![Wine Quality Prediction - Input Screen](my_streamlit_app/screenshots/Screenshot_2024-09-18_194503.png)
+
 
 ## Data Description
 
