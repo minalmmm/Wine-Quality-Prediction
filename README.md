@@ -25,13 +25,7 @@ The app allows users to input values for various wine characteristics (like acid
 
 ### App Overview
 
-![App Overview](my_streamlit_app/screenshots/Screenshot_2024-09-18_194503.png)
-
-## Memory Usage
-
-This app was optimized for memory efficiency. Here's an updated look at the memory footprint:
-- **Model Size**: The RandomForest model is stored as a pickle file (`wine_quality_model.pkl`), which consumes around **XX MB**.
-- **App Runtime Memory**: During prediction, memory usage is minimized through streamlined data handling and efficient Pandas operations.
+![App Overview](screenshots/Screenshot_2024-09-18_194503.png)
 
 ## Data Description
 
