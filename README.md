@@ -1,5 +1,3 @@
-
-=======
 # Wine Quality Prediction App
 
 This **Wine Quality Prediction** Streamlit app predicts the quality of wine based on its physicochemical properties using a pre-trained RandomForest model.
@@ -18,10 +16,6 @@ The app allows users to input values for various wine characteristics (like acid
 
 ![App](my_streamlit_app/screenshots/Screenshot%202024-09-18%20194503.png)
 ![App](my_streamlit_app/screenshots/Screenshot%202024-09-18%20194532.png)
-
-https://github.com/minalmmm/Wine-Quality-Prediction/blob/main/my_streamlit_app/screenshots/Screenshot%202024-09-18%20194532.png
-
-
 
 ## Data Description
 
